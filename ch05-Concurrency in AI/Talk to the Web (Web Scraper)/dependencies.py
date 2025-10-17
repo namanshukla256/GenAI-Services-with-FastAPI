@@ -1,3 +1,6 @@
+"""Injecting web scraper functionality as a dependency into the FastAPI LLM
+handler"""
+
 from fastapi import Body
 from loguru import logger
 
